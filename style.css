@@ -1,0 +1,44 @@
+h1{
+ color: rgb(207, 28, 43);
+ text-align: ;
+}
+*{
+ border:solid;
+}
+
+.header{
+  background-color: rgb(168, 56, 153);  
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.menu{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+    margin-top: 40;
+}
+
+.image{
+    background-color: cyan;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.games{
+   background-color: darkorchid;
+   display: flex;
+   justify-content: flex-end;
+}
+
+.icons{
+    background-color: rgb(201, 113, 78);
+    display: flex;
+    justify-content: center;
+ }
+
+ p,h2{
+     text-align: center;
+ }
